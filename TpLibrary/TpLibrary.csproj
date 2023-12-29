@@ -14,22 +14,22 @@
 
   <ItemGroup>
     <Reference Include="ImGui.NET">
-      <HintPath>..\Track Studio\Lib\ImGui.NET.dll</HintPath>
+      <HintPath>..\Tp Studio\Lib\ImGui.NET.dll</HintPath>
     </Reference>
     <Reference Include="IONET">
-      <HintPath>..\Track Studio\Lib\IONET.dll</HintPath>
+      <HintPath>..\Tp Studio\Lib\IONET.dll</HintPath>
     </Reference>
     <Reference Include="KclLibrary">
-      <HintPath>..\Track Studio\Lib\KclLibrary.dll</HintPath>
+      <HintPath>..\Tp Studio\Lib\KclLibrary.dll</HintPath>
     </Reference>
     <Reference Include="OpenTK">
-      <HintPath>..\Track Studio\Lib\OpenTK.dll</HintPath>
+      <HintPath>..\Tp Studio\Lib\OpenTK.dll</HintPath>
     </Reference>
     <Reference Include="Syroot.BinaryData">
-      <HintPath>..\Track Studio\Lib\Syroot.BinaryData.dll</HintPath>
+      <HintPath>..\Tp Studio\Lib\Syroot.BinaryData.dll</HintPath>
     </Reference>
     <Reference Include="Syroot.Maths">
-      <HintPath>..\Track Studio\Lib\Syroot.Maths.dll</HintPath>
+      <HintPath>..\Tp Studio\Lib\Syroot.Maths.dll</HintPath>
     </Reference>
   </ItemGroup>
 

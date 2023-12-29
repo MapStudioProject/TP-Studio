@@ -412,7 +412,6 @@ namespace TpLibrary
         {
             Normal = 0x00,
             Type1, Type2, Type3, Type4, Type5, Type6, Type7,
-            Type7,
         }
 
         public enum SoundID
