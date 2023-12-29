@@ -19,7 +19,7 @@ namespace TpLibrary.UI.KCL
                 ImGui.Text(label);
                 ImGui.NextColumn();
 
-                ImGuiHelper.ComboFromEnum<T>($"##{label}", codeData, property);
+                ImGuiHelper.ComboFromEnum<T>($"##{label}", codeData, property, ImGuiComboFlags.HeightLargest);
 
                 ImGui.NextColumn();
             }
