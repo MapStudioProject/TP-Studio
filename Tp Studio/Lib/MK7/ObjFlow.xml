@@ -1,0 +1,219 @@
+<ObjectInfo>
+	<Entry id="0002" internal="ef_env_sun">Sun Effect</Entry>
+	<Entry id="0003" internal="SoundPoint">Sound Effect</Entry>
+	<Entry id="0004" internal="itemBox">Itembox</Entry>
+	<Entry id="0005" internal="CoinJmap">Coin</Entry>
+	<Entry id="0006" internal="WiiLeaves">Leaf Pile</Entry>
+	<Entry id="0007" internal="CrashBox">Wooden Box</Entry>
+	<Entry id="0008" internal="GasFire">Fire Burner</Entry>
+	<Entry id="0009" internal="jugem">Unused Lakitu</Entry>
+	<Entry id="000A" internal="occlusion">Occlusion</Entry>
+	<Entry id="000B" internal="HotSpring">Water Geyser</Entry>
+	<Entry id="000C" internal="DsChandelier">Chandelier</Entry>
+	<Entry id="000D" internal="Barrel1">Barrel</Entry>
+	<Entry id="000E" internal="CmnPot1">Pot</Entry>
+	<Entry id="000F" internal="ef_maple">Falling Leaves Effect</Entry>
+	<Entry id="0010" internal="KbWaterSurface">Koopa Troopa Beach Sea</Entry>
+	<Entry id="0011" internal="RrStarRing">Unused Star Ring</Entry>
+	<Entry id="0012" internal="MovingRoad">Moving Road</Entry>
+	<Entry id="0013" internal="PsWaterSurface">Palm Shore Water</Entry>
+	<Entry id="0014" internal="BcFirePillar">Fire Geyser</Entry>
+	<Entry id="0015" internal="MovingRoad2">Moving Road Variant 2</Entry>
+	<Entry id="0016" internal="MovingRoad1">Moving Road Variant 1</Entry>
+	<Entry id="0017" internal="CmnWaterCurrent">Water Current</Entry>
+	<Entry id="0018" internal="CmnAirCurrent">Wind Variant 1</Entry>
+	<Entry id="0019" internal="AcSteam">Steam</Entry>
+	<Entry id="001A" internal="BcLavaFlow">Lava Stream</Entry>
+	<Entry id="001B" internal="WsAnchor">Swinging Anchor</Entry>
+	<Entry id="001C" internal="MeltIce">Melting Ice Platform</Entry>
+	<Entry id="001D" internal="CmnAirCurrent">Wind Variant 2</Entry>
+	<Entry id="001E" internal="clip">Culling Handler</Entry>
+	<Entry id="001F" internal="CmnWaterCurrentBig">Big Water Current</Entry>
+	<Entry id="0020" internal="CmnKinoko3">Blue Mushroom</Entry>
+	<Entry id="0021" internal="KbSplash">Waterfall Splash</Entry>
+	<Entry id="0065" internal="itemBox">Moving Itembox</Entry>
+	<Entry id="0066" internal="CmnRock1">Boulder</Entry>
+	<Entry id="0067" internal="WiAirship">Wii Blimp</Entry>
+	<Entry id="0068" internal="N64Train">Train</Entry>
+	<Entry id="0069" internal="N64Balloon1">Luigi Balloon</Entry>
+	<Entry id="006A" internal="GlBalloon">Hot Air Balloon</Entry>
+	<Entry id="006B" internal="DsIronBall">Pinball</Entry>
+	<Entry id="006C" internal="DsBound">Pinball Bumper</Entry>
+	<Entry id="006D" internal="DsSnowball">Snowball</Entry>
+	<Entry id="006E" internal="WiiCarA">Parking Car Variant A</Entry>
+	<Entry id="006F" internal="WiiCarB">Parking Car Variant B</Entry>
+	<Entry id="0070" internal="DsMovingTree">Moving Tree</Entry>
+	<Entry id="0071" internal="GcTable">Moving Table</Entry>
+	<Entry id="0072" internal="hanachan">Wiggler</Entry>
+	<Entry id="0073" internal="CruiseShip">Unused Cruise Ship</Entry>
+	<Entry id="0074" internal="DkAirship">Tiki Tak Blimp</Entry>
+	<Entry id="0075" internal="AcBowserShip">Bowser Blimp</Entry>
+	<Entry id="0076" internal="AcFutureClown">Koopa Clown Car</Entry>
+	<Entry id="0077" internal="CmnCar1">Single Car</Entry>
+	<Entry id="0078" internal="StPotSnake">Unused Pot With Snake</Entry>
+	<Entry id="0079" internal="CmnRock1">Boulder Duplicate</Entry>
+	<Entry id="007A" internal="WiiCarA">Parking Car Variant A Duplicate</Entry>
+	<Entry id="007B" internal="WiKoopaClown">Blue Koopa Clown Car</Entry>
+	<Entry id="007C" internal="wanwan">Rolling Chain Chomp</Entry>
+	<Entry id="007D" internal="IceBoundStar">Star Bumper</Entry>
+	<Entry id="007E" internal="IceBoundHeart">Heart Bumper</Entry>
+	<Entry id="007F" internal="seagull">Seagull</Entry>
+	<Entry id="00C9" internal="kuribo">Goomba</Entry>
+	<Entry id="00CA" internal="basabasa">Swooper</Entry>
+	<Entry id="00CB" internal="dossun">Thwomp</Entry>
+	<Entry id="00CC" internal="ef_bubble">Lava Bubble</Entry>
+	<Entry id="00CD" internal="crab">Sidestepper</Entry>
+	<Entry id="00CE" internal="dossunStar">Super Thwomp</Entry>
+	<Entry id="00CF" internal="penguin">Penguin</Entry>
+	<Entry id="00D0" internal="moray">Eel</Entry>
+	<Entry id="00D1" internal="pukupuku">Cheep Cheep</Entry>
+	<Entry id="00D2" internal="killer">Unused Bullet Bill</Entry>
+	<Entry id="00D3" internal="poo">Rocky Wrench</Entry>
+	<Entry id="00D4" internal="dinosaur">Dinosaurous</Entry>
+	<Entry id="00D5" internal="ShellFish">Clam</Entry>
+	<Entry id="00D6" internal="TikiTak1">Tiki Goon</Entry>
+	<Entry id="00D7" internal="frogoon">Frogoon</Entry>
+	<Entry id="00D8" internal="kuriboBlue">Underground Goomba</Entry>
+	<Entry id="00D9" internal="ShyGuyCarpet">Flying Carpet Shy Guy</Entry>
+	<Entry id="00DA" internal="pot">Green Jar</Entry>
+	<Entry id="00DB" internal="potSnake">Cobra Jar</Entry>
+	<Entry id="00DC" internal="packunFlower">Piranha Plant</Entry>
+	<Entry id="00DD" internal="note">Bouncing Note</Entry>
+	<Entry id="00DE" internal="bee">Stingby</Entry>
+	<Entry id="00DF" internal="fishBone">Fish Bone</Entry>
+	<Entry id="00E0" internal="goat">Goat</Entry>
+	<Entry id="00E1" internal="packunMusic">Music Piranha Plant</Entry>
+	<Entry id="012D" internal="Start">Start Grid</Entry>
+	<Entry id="012E" internal="CmnDokan1">Pipe</Entry>
+	<Entry id="0130" internal="CmnTree1">Tree Variant 1</Entry>
+	<Entry id="0131" internal="CmnKinoko1">Red Mushroom</Entry>
+	<Entry id="0132" internal="WaterFix">Water Fix</Entry>
+	<Entry id="0133" internal="CmnTree2">Tree Variant 2</Entry>
+	<Entry id="0134" internal="WiTree1">Wii Tree Variant 1</Entry>
+	<Entry id="0135" internal="WiTree2">Wii Tree Variant 2</Entry>
+	<Entry id="0136" internal="WiTree3">Wii Tree Variant 3</Entry>
+	<Entry id="0137" internal="CmnKinoko2">Green Mushroom</Entry>
+	<Entry id="013C" internal="N64Tree1">N64 Tree</Entry>
+	<Entry id="013D" internal="N64Saboten">Cacti</Entry>
+	<Entry id="013E" internal="N64Crossing">Train Crossing Sign</Entry>
+	<Entry id="0140" internal="Sun">Sun</Entry>
+	<Entry id="0141" internal="WaterDive">Global Underwater Zone</Entry>
+	<Entry id="0143" internal="itemBox">Alternative Itembox</Entry>
+	<Entry id="0144" internal="Coin">Alternative Coin</Entry>
+	<Entry id="0145" internal="WindMill">Windmill Blades</Entry>
+	<Entry id="0146" internal="RcCloud1">Cloud</Entry>
+	<Entry id="0148" internal="CmnStartGrid">Unused Start Grid</Entry>
+	<Entry id="0149" internal="CmnTree4">Tree Variant 4</Entry>
+	<Entry id="014A" internal="DsSkyCastle">Unused Sky Castle</Entry>
+	<Entry id="014B" internal="DsCannon">Bullet Bill Launcher</Entry>
+	<Entry id="014D" internal="DsDeadTree">Dead Tree</Entry>
+	<Entry id="014E" internal="DsFlipper">Flipper</Entry>
+	<Entry id="014F" internal="DsDram">Slot Machine</Entry>
+	<Entry id="0150" internal="DsLightBeam">Spotlight</Entry>
+	<Entry id="0152" internal="DsMoon">Spooky Moon</Entry>
+	<Entry id="0153" internal="DsPicture1">Boo Portrait</Entry>
+	<Entry id="0155" internal="DsTombstone">Tombstone</Entry>
+	<Entry id="0156" internal="DsSpookytree">Spooky Tree</Entry>
+	<Entry id="0157" internal="CmnTree3">Tree Variant 3</Entry>
+	<Entry id="0159" internal="snowman">Snowman</Entry>
+	<Entry id="015A" internal="WiiParasol">Unused Parasol</Entry>
+	<Entry id="015B" internal="WiiEscalator">Escalator</Entry>
+	<Entry id="015C" internal="CmnPylon">Red Traffic Cone</Entry>
+	<Entry id="015D" internal="CmnPylon">Blue Traffic Cone</Entry>
+	<Entry id="015E" internal="CmnPylon">Yellow Traffic Cone</Entry>
+	<Entry id="015F" internal="CmnTree5">Tree Variant 5</Entry>
+	<Entry id="0160" internal="WaterBox">Local Underwater Zone</Entry>
+	<Entry id="0161" internal="GcTree1">GC Tree</Entry>
+	<Entry id="0162" internal="WiiCannon">Barrel Cannon</Entry>
+	<Entry id="0165" internal="SfcOil">Oil Puddle</Entry>
+	<Entry id="0166" internal="BumpingFlower">Buncy Flower</Entry>
+	<Entry id="0168" internal="N64Tree1">Train Duplicate</Entry>
+	<Entry id="0169" internal="CmnTree1">Tree Variant 1 Duplicate</Entry>
+	<Entry id="016A" internal="CmnTree2">Tree Variant 2 Duplicate</Entry>
+	<Entry id="016B" internal="CmnTree3">Tree Variant 3 Duplicate</Entry>
+	<Entry id="016C" internal="CmnTree4">Tree Variant 4 Duplicate</Entry>
+	<Entry id="016D" internal="CmnTree5">Tree Variant 5 Duplicate</Entry>
+	<Entry id="016E" internal="WiTree1">Wii Tree Variant 1 Duplicate</Entry>
+	<Entry id="016F" internal="WiTree2">Wii Tree Variant 2 Duplicate</Entry>
+	<Entry id="0170" internal="WiTree3">Wii Tree Variant 3 Duplicate</Entry>
+	<Entry id="0171" internal="DsDeadTree">Dead Tree Duplicate</Entry>
+	<Entry id="0172" internal="DsSpookytree">Spooky Tree Duplicate</Entry>
+	<Entry id="0173" internal="GcTree1">GC Tree Duplicate</Entry>
+	<Entry id="0174" internal="Dkpalm">Jungle Palm Tree</Entry>
+	<Entry id="0175" internal="Dkspillar">Screaming Pillar</Entry>
+	<Entry id="0176" internal="Stlamp">Street Light</Entry>
+	<Entry id="0177" internal="Stpot1">Pink Jar</Entry>
+	<Entry id="0178" internal="Stpot2">Plant Pot</Entry>
+	<Entry id="0179" internal="MrBush">Unused Bush</Entry>
+	<Entry id="017A" internal="IcePillar">Ice Pillar</Entry>
+	<Entry id="017B" internal="CmnFountain">Fountain</Entry>
+	<Entry id="017C" internal="Stmoon">Moon</Entry>
+	<Entry id="017D" internal="Dkbarrel">DK Barrel</Entry>
+	<Entry id="017E" internal="N64Deck">N64 Shortcut Ramp</Entry>
+	<Entry id="017F" internal="RrStarRing">Star Ring</Entry>
+	<Entry id="0180" internal="TcBoard">Toad Circuit Glider Board</Entry>
+	<Entry id="0181" internal="AcPuddle">Oil Puddle Variant 2</Entry>
+	<Entry id="0182" internal="WiWindMill">Wind Turbine Blades</Entry>
+	<Entry id="0183" internal="RrPipe">Rotating Rainbow Pipe</Entry>
+	<Entry id="0184" internal="BcTorch">Torch</Entry>
+	<Entry id="0185" internal="IsAnemone">Unused Anemone</Entry>
+	<Entry id="0186" internal="RrMovingRoad">Unused Moving Rainbow Road</Entry>
+	<Entry id="0187" internal="BcPipe">Rotating Wooden Pipe</Entry>
+	<Entry id="0188" internal="RrMovingRoad">Moving Rainbow Road Variant 1</Entry>
+	<Entry id="0189" internal="RrMovingRoad">Moving Rainbow Road Variant 2</Entry>
+	<Entry id="018B" internal="StFireWorks">Fireworks</Entry>
+	<Entry id="018C" internal="MoonBox">Moon Gravity Zone</Entry>
+	<Entry id="018D" internal="UgKuriboBoard">Fake Goomba</Entry>
+	<Entry id="018E" internal="UgBushBoard">Fake Bush</Entry>
+	<Entry id="018F" internal="CmnMii">Spectating Mii</Entry>
+	<Entry id="0190" internal="TcBalloon">Toad Balloon</Entry>
+	<Entry id="0191" internal="MpTambourine">Bouncy Tambourine</Entry>
+	<Entry id="0192" internal="BdBoard">Big Donut Glider Board</Entry>
+	<Entry id="0193" internal="RrAsteroid">Asteroid</Entry>
+	<Entry id="0194" internal="UgTreeS">Unused Small Tree</Entry>
+	<Entry id="0195" internal="UgTreeL">Unused Large Tree</Entry>
+	<Entry id="0196" internal="UgCloud">8-bit Cloud</Entry>
+	<Entry id="0197" internal="SfcMovingRoad">Retro Moving Rainbow Road Variant 1</Entry>
+	<Entry id="0198" internal="SfcMovingRoad">Retro Moving Rainbow Road Variant 2</Entry>
+	<Entry id="0199" internal="SfcMovingRoad">Retro Moving Rainbow Road Variant 3</Entry>
+	<Entry id="019A" internal="SfcMovingRoad">Retro Moving Rainbow Road Variant 4</Entry>
+	<Entry id="019B" internal="SfcMovingRoad">Unused Retro Moving Rainbow Road</Entry>
+	<Entry id="019C" internal="SfcMovingRoad">Unused Retro Moving Rainbow Road</Entry>
+	<Entry id="019D" internal="SfcMovingRoad">Unused Retro Moving Rainbow Road</Entry>
+	<Entry id="019E" internal="SfcMovingRoad">Unused Retro Moving Rainbow Road</Entry>
+	<Entry id="019F" internal="CmnCar1">Car Group</Entry>
+	<Entry id="01A0" internal="noteJumpbox">Bouncy Note Jump Box</Entry>
+	<Entry id="01A1" internal="VisualSync">Music Visual Sync Handler</Entry>
+	<Entry id="01A2" internal="MpTrumpet">Trumpet</Entry>
+	<Entry id="01A3" internal="MpSax">Sax</Entry>
+	<Entry id="01A4" internal="MpSpeaker">Speaker</Entry>
+	<Entry id="01A5" internal="RrJump">Rainbow Mushroom</Entry>
+	<Entry id="01A6" internal="SunBig">Big Sun</Entry>
+	<Entry id="01A7" internal="CmnDokan2">SNES Pipe</Entry>
+	<Entry id="01A8" internal="packunLight">Music Piranha Plant Light</Entry>
+	<Entry id="01A9" internal="GbaBoard">GBA Bowser Castle Glide Board</Entry>
+	<Entry id="01AA" internal="MpBoard">Music Glider Ramp</Entry>
+	<Entry id="01AB" internal="Sunset">Sunset Sun</Entry>
+	<Entry id="01AC" internal="WaterBoxNoRot">Local Underwater Zone Without Rotation</Entry>
+	<Entry id="01AD" internal="MoonBoxNoRot">Moon Gravity Zone Without Rotation</Entry>
+	<Entry id="01AE" internal="SfcJumpBar">SNES Bouncy Bar</Entry>
+	<Entry id="01AF" internal="CmnFlash">Camera Flash</Entry>
+	<Entry id="0385" internal="CmnVR1">Skybox Variant 1</Entry>
+	<Entry id="0386" internal="SfcVR1">SNES Skybox</Entry>
+	<Entry id="0387" internal="N64VR1">N64 Skybox Variant 1</Entry>
+	<Entry id="0388" internal="N64VR2">N64 Skybox Variant 2</Entry>
+	<Entry id="0389" internal="AgbVR">GBA Skybox</Entry>
+	<Entry id="038A" internal="DsVR1">DS Skybox</Entry>
+	<Entry id="038B" internal="WiiVR1">Wii Skybox</Entry>
+	<Entry id="038C" internal="CmnVR2">Skybox Variant 2</Entry>
+	<Entry id="038D" internal="CmnVR3">Skybox Variant 3</Entry>
+	<Entry id="038E" internal="CmnVR4">Skybox Variant 4</Entry>
+	<Entry id="038F" internal="CmnVR5">Skybox Variant 5</Entry>
+	<Entry id="0390" internal="CmnVR6">Skybox Variant 6</Entry>
+	<Entry id="0391" internal="CmnVR7">Skybox Variant 7</Entry>
+	<Entry id="0392" internal="CmnVR8">Skybox Variant 8</Entry>
+	<Entry id="0393" internal="CmnVR9">Skybox Variant 9</Entry>
+	<Entry id="0394" internal="CmnVR10">Skybox Variant 10</Entry>
+	<Entry id="0395" internal="CmnVR11">Skybox Variant 11</Entry>
+	<Entry id="0396" internal="CmnVR12">Skybox Variant 12</Entry>
+</ObjectInfo>

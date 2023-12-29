@@ -1,0 +1,10 @@
+[submodule "MapStudio.UI"]
+	path = MapStudio.UI
+	url = https://github.com/MapStudioProject/MapStudio.UI
+[submodule "GLFrameworkEngine"]
+	path = GLFrameworkEngine
+	url = https://github.com/MapStudioProject/GLFrameworkEngine
+[submodule "Toolbox.Core"]
+	path = Toolbox.Core
+	url = https://github.com/KillzXGaming/Toolbox.Core
+	branch = map-studio
