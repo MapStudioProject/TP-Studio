@@ -386,9 +386,9 @@ namespace TpLibrary
             No_Sidle = 0x3,
             Unknown_4 = 0x4,
             Diggable_Black_Soil = 0x5,
-            Unknown_6 = 0x6,
+            HeavySnow = 0x6,
             Unknown_7 = 0x7,
-            Unknown_8 = 0x8,
+            Slippery = 0x8,
             Unknown_9 = 0x9,
             Unknown_10 = 0xA,
             Unknown_11 = 0xB,
@@ -403,9 +403,21 @@ namespace TpLibrary
         public enum Att0Code
         {
             Normal = 0x00,
-            Type1, Type2, Type3, Type4, Type5, Type6, Type7,
-            Type8, Type9, Type10, Type11, Type12, Type13,
-            Type14, Type15,
+            Type1, 
+            Type2, 
+            Type3,
+            Type4, 
+            Type5, 
+            Damage_Generic, 
+            Water,
+            Type8,
+            Type9,
+            Type10,
+            Type11,
+            Damage_SlowMovement, 
+            SnowEffects,
+            Type14, 
+            Type15,
         }
 
         public enum Att1Code
