@@ -92,7 +92,6 @@ namespace TpLibrary.UI.KCL
                 EditBool("Underwater Roof", "UnderwaterRoof");
                 EditUint("Monkey Bars", "MonkeyBars");
                 EditUint("Magnet", "Magnet");
-                //   EditBool("NoHorseEntry", "NoHorseEntry");
 
                 ImGui.Columns(1);
             }
